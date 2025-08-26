@@ -5,7 +5,7 @@ A modern Android application built with Jetpack Compose that provides real-time 
 ## 📱 Demo
 
 <div align="center">
-  <img src="demo/app_demo.gif" width="300" alt="Wifi Analyzer Demo"/>
+  <img src="demo/demo.gif" width="400" alt="Wifi Analyzer Demo"/>
 </div>
 
 ## Features
@@ -35,11 +35,6 @@ A modern Android application built with Jetpack Compose that provides real-time 
 4. Monitor signal quality through color-coded indicators
 5. Analyze historical data through interactive graphs
 6. Review detailed statistics for network performance insights
-
-### Prerequisites
-- Android Studio Arctic Fox or later
-- Android SDK 21+
-- Kotlin 1.8+
 
 ### Required Permissions
 - `ACCESS_WIFI_STATE` - Read WiFi network information
@@ -77,9 +72,3 @@ A modern Android application built with Jetpack Compose that provides real-time 
 - Location permissions needed for detailed network information
 - Signal readings depend on device hardware capabilities
 - Ping measurements require active internet connection
-
-
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/wifi-analyzer](https://github.com/yourusername/wifi-analyzer)
